@@ -1,0 +1,19 @@
+{
+  "name": "03-stripe-payment-gateway-example",
+  "version": "1.0.0",
+  "description": "Stripe Payment Gateway Example",
+  "main": "App.js",
+  "scripts": {
+    "test": "yarn init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reignreapsow/Stripe-Shopping-Cart-Example.git"
+  },
+  "author": "ReignWestry.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reignreapsow/Stripe-Shopping-Cart-Example/issues"
+  },
+  "homepage": "https://github.com/reignreapsow/Stripe-Shopping-Cart-Example#readme"
+}
